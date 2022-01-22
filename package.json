@@ -1,0 +1,12 @@
+{
+  "name": "backup-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Y4_Phanda#0964",
+  "license": "MIT",
+  "dependencies": {
+    "discord-backup": "^2.3.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1"
+  }
+}
